@@ -1,2 +1,0 @@
-# sendgopay
-Send saldo
